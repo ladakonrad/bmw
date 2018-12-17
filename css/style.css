@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-image: url('../img/background-header.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    position: relative;
+}
+
+h1 {
+    color: #ffff;
+    font-size: 6vh;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    position: absolute;
+    top: 5%;
+    right: 10%;
+}
+
+h2 {
+    color: #ffff;
+    font-size: 3vh;
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    text-transform: uppercase;
+    top: 22%;
+    right: 11%
+    
+}
+
+#adress {
+    color: #ffff;
+    font-size: 3vh;
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    text-transform: uppercase;
+    top: 30%;
+    right: 12%
+}
+
+/*.carousel-inner {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}*/
